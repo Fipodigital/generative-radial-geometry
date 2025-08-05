@@ -1,0 +1,26 @@
+**GRG** is an original mathematical framework developed by Stefano Ferragina, aiming to define circles and their areas without relying on π (pi). Instead, it uses internal radial summations, projections, and discrete logic. 
+
+This repository collects:
+- Visual explanations
+- Formulas derived from radial projections
+- Comparisons with classical methods (Archimedes, Leibniz, etc.)
+- Downloadable documents (PDFs, images, .docx)
+
+## 📘 Key Ideas
+- The circle is reconstructed using only the radius and its projections
+- The area is calculated by summing vertical heights, not approximated sectors
+- The circumference is calculated by angular segmentation (not chords or π)
+
+## 🔗 External Resources
+- Zenodo publication: [DOI:10.5281/zenodo.16731969](https://doi.org/10.5281/zenodo.16731969)
+
+## 📄 License
+This work is shared under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+---
+
+To explore the full manifesto in English and Italian, see: `manifesto-grg.md`
+
+Feel free to fork, suggest edits, or use it for educational purposes.
+
+> "Geometry is not a matter of approximation — it’s a matter of structure."
