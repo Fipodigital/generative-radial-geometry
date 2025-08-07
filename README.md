@@ -41,7 +41,9 @@ Zenodo DOI: [10.5281/zenodo.16731969](https://doi.org/10.5281/zenodo.16731969)
 The project is also archived on the Open Science Framework (OSF):
 Generative Radial Geometry on OSF (Project Page)
 
-[View-only Public Access](https://osf.io/uy5tx/?view_only=fc0f36e4af78410f9fdgo variants  
+- [Generative Radial Geometry – OSF Project (view-only)](https://osf.io/uy5tx/?view_only=fc0f36e4af78410f9fdc6e66f262b6f5)
+- [Generative Radial Geometry – OSF Project](https://osf.io/uy5tx)
+
 SVG diagrams and illustrations  
 Alternate versions and previews of the manifesto
 
