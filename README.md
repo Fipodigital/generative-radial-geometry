@@ -26,5 +26,28 @@ This repository includes the complete documentation of the GRG mathematical fram
 **Stefano Ferragina**  
 Zenodo DOI: [10.5281/zenodo.16731969](https://doi.org/10.5281/zenodo.16731969)
 
+
+## Zenodo Publications for GRG
+
+- [Generative Radial Geometry and Area Without Pi](https://doi.org/10.5281/zenodo.16761102)
+- [Manifesto GRG (Bilingual ZIP)](https://doi.org/10.5281/zenodo.16732109)
+- [GRG vs Classical π Techniques](https://doi.org/10.5281/zenodo.16726147)
+- [Intro to GRG Concept](https://doi.org/10.5281/zenodo.16722932)
+- [GRG Extended with High‑Precision Simulations](https://doi.org/10.5281/zenodo.16723843)
+
+**Zenodo DOI for this repository**: 10.5281/zenodo.16731969
+
+## OSF Archive for GRG
+The project is also archived on the Open Science Framework (OSF):
+Generative Radial Geometry on OSF (Project Page)
+
+[View-only Public Access](https://osf.io/uy5tx/?view_only=fc0f36e4af78410f9fdgo variants  
+SVG diagrams and illustrations  
+Alternate versions and previews of the manifesto
+
+
+
+
+
 ## 🧾 License
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
